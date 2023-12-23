@@ -1,5 +1,5 @@
 ### 植物大战僵尸修改器
-GUI 库使用了 FLTK
+C++ GUI 库使用了 FLTK
 
 ### 参考
 [CE入门教程](https://www.bilibili.com/video/BV1Eg4y1X7ey/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=4fe70bc90b3c86ea53adef63b7e185c3)  
